@@ -1,0 +1,25 @@
+{
+  "name": "revisao",
+  "version": "1.0.0",
+  "description": "revisao 03",
+  "homepage": "https://github.com/vinic87s/03#readme",
+  "bugs": {
+    "url": "https://github.com/vinic87s/03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinic87s/03.git"
+  },
+  "license": "MIT",
+  "author": "eu mesmo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
